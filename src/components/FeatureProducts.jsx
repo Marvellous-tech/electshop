@@ -212,7 +212,7 @@ const featuredProducts = [
   {
     id: "6",
     title: "Dell Laptop",
-    price: 1000.99,
+    price: 900.99,
     image: "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     rating: 5.8,
     reviews: 83,
